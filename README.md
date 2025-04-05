@@ -1,7 +1,14 @@
+
+- [Simplified Version](./simpleVersion.md)
+- [PDF Version](./pdf/paper.pdf)
+- [Simulation](./scripts/phi_field_simulation.py)
+
+--- 
+
 # The Φ-Field Framework:  
   
 ### A Gradient-Based Model of Gravity, Time Dilation, and Quantum Effects
----
+
 **Authors:**  
 Prscila, Daniel, ChatGPT
   
