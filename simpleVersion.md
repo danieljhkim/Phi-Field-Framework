@@ -30,3 +30,6 @@ Light moves differently depending on how dense the Φ-field is. In thinner spots
 
 ### Quantum
 In the double slit experiment, if the Φ-field is calm and undisturbed, as particles traverse through the space, it generates a wave, spreading out and interfering with itself. But if you “observe” it by placing a detector near the slits, you are physically blocking or disturbing the field, and now the wave cannot pass through both slits — thus no interference.
+
+### Expansion of the Universe
+As matters are coalescing around the universe, they push out this invisible medium from within them. Where does this “pushed out” medium go? It expands the universe — the dark energy.
