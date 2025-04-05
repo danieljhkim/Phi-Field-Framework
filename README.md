@@ -49,10 +49,22 @@ causing light to refract toward regions of lower <img src="https://latex.codecog
   
 ### 3.3 Time Dilation
   
-Local variations in the field density affect atomic clocks according to
-<p align="center"><img src="https://latex.codecogs.com/gif.latex?f_{\text{clock}}(r)%20=%20f_0\left(1%20-%20\gamma\left(\Phi_0%20-%20\Phi(r)\right)\right),"/></p>  
-  
-suggesting that clocks run slower in regions where the medium is more compressed.
+In our framework, the rate of atomic processes—and hence the ticking of clocks—is influenced by the local state of the φ-field. Rather than assuming that clocks run slower where the medium is more compressed, our model proposes that near a mass the φ-field is displaced and stretched out. This stretching leads to a locally reduced φ-field density. At the same time, the gravitational pull (or accelerative force) in these regions acts to further confine the particles within atoms, which modifies the atomic energy levels and transition rates.
+
+We can express the dependence of the clock frequency on the φ-field as:
+
+
+<p align="center"><img src="https://latex.codecogs.com/svg.latex?f_{\text{clock}}(r)%20=%20f_0\left(1%20-%20\gamma\left[\Phi(r)%20-%20\Phi_0\right]\right)" /></p>
+
+
+where:
+
+- <img src="https://latex.codecogs.com/svg.latex?f_0" /> is the clock frequency far from any mass (i.e., where the φ-field is at its baseline value <img src="https://latex.codecogs.com/svg.latex?\Phi_0" />),
+- <img src="https://latex.codecogs.com/svg.latex?\Phi(r)" /> is the local φ-field value,
+- <img src="https://latex.codecogs.com/svg.latex?\gamma" /> is a constant quantifying the sensitivity of atomic transitions to variations in the φ-field.
+
+
+In this formulation, if <img src="https://latex.codecogs.com/svg.latex?\Phi(r)%20<%20\Phi_0" /> (indicating that the field is stretched out and its density is reduced near the mass), then the term <img src="https://latex.codecogs.com/svg.latex?\Phi(r)%20-%20\Phi_0" /> is negative, resulting in <img src="https://latex.codecogs.com/svg.latex?f_{\text{clock}}(r)%20<%20f_0" />. Additionally, the gravitational pull that further confines the particles can alter the effective potential experienced by atomic constituents, reinforcing the slowing of clock rates. Together, these effects provide a mechanism for gravitational time dilation in our model, consistent with the observation that clocks run slower in stronger gravitational fields.
   
 ---
   

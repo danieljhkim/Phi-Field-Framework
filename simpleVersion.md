@@ -21,7 +21,7 @@ As a result, around that object, the Φ-field gets <b>less dense near the object
 ![Alt text](assets/fig1.png?raw=true "Title")
 
 ### Time
-Well, your clock — your heartbeat, your atoms, your thoughts — everything depends on how much “room” particles have to move and vibrate. If the Φ-field is more stretched out (i.e. when there is acceleration), the particles can’t move as freely, and they do things more slowly.
+Well, your clock — your heartbeat, your atoms, your thoughts — everything depends on how much “room” particles have to move and vibrate. If the Φ-field is more stretched out (i.e. when there is a force pushing them down), the particles are bounded more closely together. They can’t move as freely. So they tick slower.
 
 That’s time dilation.
 
