@@ -21,7 +21,7 @@ As a result, around that object, the Φ-field gets <b>less dense near the object
 ![Alt text](assets/fig1.png?raw=true "Title")
 
 ### Time
-Well, your clock — your heartbeat, your atoms, your thoughts — everything depends on how much “room” particles have to move and vibrate. If the Φ-field is more compressed (like near a heavy object), the particles can’t move as freely, and they do things more slowly.
+Well, your clock — your heartbeat, your atoms, your thoughts — everything depends on how much “room” particles have to move and vibrate. If the Φ-field is more stretched out (i.e. when there is acceleration), the particles can’t move as freely, and they do things more slowly.
 
 That’s time dilation.
 
@@ -29,4 +29,4 @@ That’s time dilation.
 Light moves differently depending on how dense the Φ-field is. In thinner spots, it moves faster. In thicker spots, slower. So when light passes near a massive object, it bends — not because space is warped, but because the medium is uneven, like light bending through glass.
 
 ### Quantum
-In the double slit experiment, if the Φ-field is calm and undisturbed, the particle acts like a wave, spreading out and interfering with itself. But if you “observe” it by placing a detector near the slits, you physically block or disturb the field, and the particle can’t access both slits the same way. It acts like a little billiard ball. Not because it’s being watched — but because you broke the field it was playing in.
+In the double slit experiment, if the Φ-field is calm and undisturbed, as particles traverse through the space, it generates a wave, spreading out and interfering with itself. But if you “observe” it by placing a detector near the slits, you are physically blocking or disturbing the field, and now the wave cannot pass through both slits — acting like a particle.
