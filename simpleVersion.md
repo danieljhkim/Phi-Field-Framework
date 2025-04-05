@@ -29,4 +29,4 @@ That’s time dilation.
 Light moves differently depending on how dense the Φ-field is. In thinner spots, it moves faster. In thicker spots, slower. So when light passes near a massive object, it bends — not because space is warped, but because the medium is uneven, like light bending through glass.
 
 ### Quantum
-In the double slit experiment, if the Φ-field is calm and undisturbed, as particles traverse through the space, it generates a wave, spreading out and interfering with itself. But if you “observe” it by placing a detector near the slits, you are physically blocking or disturbing the field, and now the wave cannot pass through both slits — acting like a particle.
+In the double slit experiment, if the Φ-field is calm and undisturbed, as particles traverse through the space, it generates a wave, spreading out and interfering with itself. But if you “observe” it by placing a detector near the slits, you are physically blocking or disturbing the field, and now the wave cannot pass through both slits — thus no interference.
